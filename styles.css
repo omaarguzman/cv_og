@@ -1,0 +1,88 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #3949ab;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    display: inline-block;
+    width: 600px;
+    font-weight: bold;
+}
+
+header p {
+    display: inline-block;
+    width: 600px;
+    font-weight: 200;
+}
+
+.aboutP {
+    background-color: #f06292;
+    color: black;
+    text-align: center;
+    padding: 10px; 
+}
+
+section { 
+    background-color: lightgray;
+}
+
+.containerSection {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    background-color: white;
+    
+}
+
+.divH3 {
+    display: inline-block;
+    width: 68%;
+    vertical-align: top;
+}
+
+.divH3 h3 {
+    display: inline-block;
+    width: 68%;
+    vertical-align: top;
+    font-size: 40px;
+}
+
+.dt1 {
+    font-size: 25px; 
+    text-transform: uppercase;
+}
+
+.dt2 {
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+.divIMG {
+    display: inline-block; 
+    width: 30%;
+}
+
+.divIMG img {
+    border-radius: 100%;
+    margin-top: 30px;
+}
+
+.divH3-2 {
+    margin-top: 70px;
+}
+
+.divH3-2 h3 {
+    font-size: 40px;
+    font-weight: 700px;
+}
+
+
